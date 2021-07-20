@@ -1,0 +1,31 @@
+body {
+    background-color: #FFC0CB;
+}
+
+
+.complete {
+    color: #999DA0;
+    text-decoration: line-through;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    height: 3px;
+    background-color: #544c4a;
+    border: none;
+}
+
+.panel-body {
+    margin: auto;
+    width: 30%;
+    text-align: center;
+}
+
+
+.uncomplete {
+    color: #544c4a;
+}
